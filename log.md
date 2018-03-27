@@ -24,3 +24,9 @@ I can come back and tackle that bug I noticed in my site.
 **Today's Progress though**: Starting to get a little more comfortable in VIM. That counts as coding right? I'm writing my own maps and slowly building a .vimrc file for myself. Oh and I started another simple website. This one's a little more simple than Tic Tac Toe though. It's merely going to be a static site full of my book marks that I can keep online between laptops. The catch is that I'm hopefully going to implement more CSS and get more comfortable with it!
 
 [Link to repo with my bookmark site that is seriously lacking bookmarks!](https://github.com/jmullica522/bookMarks)
+
+### Day 5: March 27, 2018
+
+**Today's Progress**: Made a little progress on my bookmark site. Really just added an index and minor updates to the stylesheet. Nothing impressive. The only impressive thing is that everything was updated using VIM today! Really got lost in the weeds with VIM and mappings and buffers. All that jazz. I actually pushed my vimrc onto a repository in case I ever switch laptops.
+
+[Link to my vimrc if you want to critque me or offer suggestions...](https://github.com/Jmullica522/myVIMRC)
