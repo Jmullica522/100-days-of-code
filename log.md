@@ -16,3 +16,11 @@
 on the front end sectionn. Learned a little more about the '<img>' tag then I knew in the past, figured out a fair bit about the '<form>' tag
 as well as buttons and input types that can go into a form. I sadly didn't make much progress on my Tic Tac Toe site yet but maybe later tonight
 I can come back and tackle that bug I noticed in my site.
+
+### Day 4: March 26, 2018
+
+**Disclaimer**: Alright I missed quite a few days I can be honest. Got distracted hanging out with friends over the weekend and played too much league but I'll get back into the swing of things now! In fact I might even use this catch up time to learn how to write a twitter bot or something to just pull a tl;dr off this log for me... or so I can dream.
+
+**Today's Progress though**: Starting to get a little more comfortable in VIM. That counts as coding right? I'm writing my own maps and slowly building a .vimrc file for myself. Oh and I started another simple website. This one's a little more simple than Tic Tac Toe though. It's merely going to be a static site full of my book marks that I can keep online between laptops. The catch is that I'm hopefully going to implement more CSS and get more comfortable with it!
+
+[Link to repo with my bookmark site that is seriously lacking bookmarks!](https://github.com/jmullica522/bookMarks)
