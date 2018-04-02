@@ -30,3 +30,9 @@ I can come back and tackle that bug I noticed in my site.
 **Today's Progress**: Made a little progress on my bookmark site. Really just added an index and minor updates to the stylesheet. Nothing impressive. The only impressive thing is that everything was updated using VIM today! Really got lost in the weeds with VIM and mappings and buffers. All that jazz. I actually pushed my vimrc onto a repository in case I ever switch laptops.
 
 [Link to my vimrc if you want to critque me or offer suggestions...](https://github.com/Jmullica522/myVIMRC)
+
+### Day 6: April 1, 2018
+
+**Today's Progress**: So I am really bad at logging things on a daily basis. That is something I really need to work on. Now aside from that little hiccup I have been working on code related things. I've been slowly updating my bookmarks page still as well as learning about Ruby and Jekyll. I plan on putting a little more effort into learning Ruby for scripting and in the event I learn Ruby on Rails; however I did use Jekyll to make a small page to upload using GitHub pages. Throughout the week I plan on adjusting it more visually to suit me better but at least for now I can say it's live.
+
+[Link to my new blog!](https://jmullica522.github.io)
